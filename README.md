@@ -1,1 +1,1 @@
-# Flowers_with_Data_Augmentation
+Работа с модулем tensorflow. Классификация изображения цветов.
